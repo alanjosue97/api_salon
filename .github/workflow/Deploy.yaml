@@ -8,7 +8,7 @@ on:
 env:
   AWS_REGION: us-west-2
 
-job:
+jobs:
   Deploy:
     runs-on: ubuntu-latest
 
