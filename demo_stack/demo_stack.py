@@ -57,4 +57,4 @@ class AppDemoStack(Stack):
                 environment={"MONGODB_URI": mongodb_uri},
             ),
         )
-        fargate_cluster.target_group.configure_health_check(path="/healtcheck")
+        fargate_cluster.target_group.configure_health_check(path="/docs")
