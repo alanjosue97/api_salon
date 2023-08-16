@@ -37,7 +37,7 @@ class AppDemoStack(Stack):
         ecr_repository = ecr.Repository.from_repository_name(
             self,
             "EcrRepository",
-            "demo-api-salon",
+            "demo-app-fastapi-mongodb",
         )
 
         ecr_image = ecs.ContainerImage.from_ecr_repository(
