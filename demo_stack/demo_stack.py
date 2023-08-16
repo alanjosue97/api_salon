@@ -30,7 +30,7 @@ class AppDemoStack(Stack):
         ecs_task_role = iam.Role(
             self,
             "EcsTaskRole",
-            assumed_by=iam.ServicePrincipal("ecs-tasks.amazonaws.com"),
+            assumed_by=iam.ServicePrincipal("ecs-tasks.amazon.com"),
             description="Grant access to multiple AWS services",
         )
 
