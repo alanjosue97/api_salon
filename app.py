@@ -3,11 +3,11 @@ import os
 
 import aws_cdk as cdk
 
-from demo_stack.demo_stack import DemoAppStack
+from demo_stack.demo_stack import AppDemoStack
 
 
 app = cdk.App()
-DemoAppStack(app, "DemoStack",
+AppDemoStack(app, "AppDemoStack",
     
     )
 
