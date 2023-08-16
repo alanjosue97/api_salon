@@ -56,4 +56,7 @@ class AppDemoStack(Stack):
                 task_role=ecs_task_role,
             ),
         )
+        fargate_cluster.target_group.configure_health_check(
+            path="/docs"
+        )
       
