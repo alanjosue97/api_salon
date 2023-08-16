@@ -25,9 +25,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Black and Flak8
+      - name: Install Black and Flake8
         run: |
-          pip install flak8
+          pip install flake8
       
       - name: Build Docker Image
         working-directory: api
