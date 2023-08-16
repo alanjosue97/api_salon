@@ -13,7 +13,7 @@ app.include_router(users.router)
 @app.get("/healtcheck")
 async def healtcheck():
     return {
-       "healtcheck": "okat"
+       "healtcheck": "HealtCheck status is okay"
     }
 
      
