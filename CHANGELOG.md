@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/alanjosue97/api_salon/compare/v1.0.3...v1.1.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* file modified with black ([0289a9b](https://github.com/alanjosue97/api_salon/commit/0289a9b9f4b3390b8663d6ccc133b34d904b8c25))
+* use single quotes ([8269e35](https://github.com/alanjosue97/api_salon/commit/8269e35b0113c07ef24504f72f879bfca2325ea5))
+
+
+### Features
+
+* message healtcheck ([e496061](https://github.com/alanjosue97/api_salon/commit/e496061b0ab274e4d22066ecbf968363e2960a32))
+
 ## [1.0.4](https://github.com/alanjosue97/api_salon/compare/v1.0.3...v1.0.4) (2023-08-16)
 
 
