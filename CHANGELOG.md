@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/alanjosue97/api_salon/compare/v1.0.1...v1.0.2) (2023-08-16)
+
+
+### Bug Fixes
+
+* pass mongodb uri as a context ([4601e16](https://github.com/alanjosue97/api_salon/commit/4601e16a836951877428b6a4241b5d1c9d390d05))
+
 ## [1.0.1](https://github.com/alanjosue97/api_salon/compare/v1.0.0...v1.0.1) (2023-08-16)
 
 
