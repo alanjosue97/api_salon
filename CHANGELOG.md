@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/alanjosue97/api_salon/compare/v1.1.0...v1.1.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* healtcheck message change ([7267b54](https://github.com/alanjosue97/api_salon/commit/7267b548532e27042cbe3384be0df0d96a06cdda))
+
 # [1.1.0](https://github.com/alanjosue97/api_salon/compare/v1.0.3...v1.1.0) (2023-08-17)
 
 
