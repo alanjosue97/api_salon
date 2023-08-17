@@ -13,4 +13,4 @@ app.include_router(produpdate.router)
 
 @app.get("/healtcheck")
 async def healtcheck():
-    return {"healtcheck": "HealtCheck status is okay testing okay"}
+    return {"healtcheck": "HealtCheck status is okay testing okay 2"}
