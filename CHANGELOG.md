@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/alanjosue97/api_salon/compare/v1.1.1...v1.1.2) (2023-08-18)
+
+
+### Bug Fixes
+
+* update stack final chanege ([0e7628c](https://github.com/alanjosue97/api_salon/commit/0e7628c4f17ccf6335f0267ba5d31decd614918c))
+
 ## [1.1.1](https://github.com/alanjosue97/api_salon/compare/v1.1.0...v1.1.1) (2023-08-17)
 
 
