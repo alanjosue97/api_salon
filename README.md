@@ -14,8 +14,8 @@ poetry add motor
 
 ```bash
 docker run --name database-api 
-    -e MONGO_INITDB_ROOT_USERNAME=salon 
-    -e MONGO_INITDB_ROOT_PASSWORD=Salon123 
+    -e MONGO_INITDB_ROOT_USERNAME=
+    -e MONGO_INITDB_ROOT_PASSWORD= 
     -e MONGO_INITDB_DATABASE=test 
     -p 27017:27017 
     -d mongo:latest

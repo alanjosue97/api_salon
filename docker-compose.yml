@@ -2,9 +2,9 @@ services:
   db:
     image: public.ecr.aws/docker/library/mongo:latest
     environment:
-      - MONGO_INITDB_ROOT_USERNAME=salon
-      - MONGO_INITDB_ROOT_PASSWORD=Salon123
-      - MONGO_INITDB_DATABASE=control
+      - MONGO_INITDB_ROOT_USERNAME=
+      - MONGO_INITDB_ROOT_PASSWORD=
+      - MONGO_INITDB_DATABASE=
     networks:
       - control
 
@@ -16,8 +16,8 @@ services:
     depends_on:
       - db
     environment:
-      - MONGO_INITDB_ROOT_USERNAME=salon
-      - MONGO_INITDB_ROOT_PASSWORD=Salon123
+      - MONGO_INITDB_ROOT_USERNAME=
+      - MONGO_INITDB_ROOT_PASSWORD=
     networks:
       - control
 
